@@ -2,6 +2,7 @@
   
   ## Application Description
   ![license-badge](https://img.shields.io/badge/License-MIT-blue.svg)
+  
   For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed. This application provides a place from users to write, reference, and delete notes that persist between uses.
 
   ## Table of Contents
@@ -11,7 +12,7 @@
   * [Contributing](#contribution-guidelines)
   * [Test](#tests)
   * [Questions](#questions)
-  * 
+  
   ## Installation
   Run the following to install necessary packages:
   npm i 
